@@ -1,0 +1,4 @@
+Xamarin_Apps_1.MainActivity, Xamarin_Apps_1;md5103ca409a3d5a4690e9ed527eb57338e.MainActivity
+Xamarin_Apps_1.MainActivity, Xamarin_Apps_1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5103ca409a3d5a4690e9ed527eb57338e.MainActivity
+Xamarin_Apps_1.MainActivity;md5103ca409a3d5a4690e9ed527eb57338e.MainActivity
+xamarin_apps_1.MainActivity;md5103ca409a3d5a4690e9ed527eb57338e.MainActivity
