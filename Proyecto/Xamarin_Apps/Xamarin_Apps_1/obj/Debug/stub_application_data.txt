@@ -1,2 +1,0 @@
-android.app.Application
-Xamarin_Apps_1.Xamarin_Apps_1

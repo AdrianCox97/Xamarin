@@ -1,0 +1,4 @@
+Lab001_M1_L1.MainActivity, Lab001_M1_L1;md58d76b7e93b6dd7262bed8bde38b7a4c6.MainActivity
+Lab001_M1_L1.MainActivity, Lab001_M1_L1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58d76b7e93b6dd7262bed8bde38b7a4c6.MainActivity
+Lab001_M1_L1.MainActivity;md58d76b7e93b6dd7262bed8bde38b7a4c6.MainActivity
+lab001_m1_l1.MainActivity;md58d76b7e93b6dd7262bed8bde38b7a4c6.MainActivity
