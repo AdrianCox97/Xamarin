@@ -104,9 +104,9 @@ class MonoPackageManager_Resources {
 		"Microsoft.WindowsAzure.Mobile.dll",
 		"Microsoft.WindowsAzure.Mobile.Ext.dll",
 		"Newtonsoft.Json.dll",
-		"SALLab02.dll",
 		"System.Net.Http.Extensions.dll",
 		"System.Net.Http.Primitives.dll",
+		"SALLab02.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

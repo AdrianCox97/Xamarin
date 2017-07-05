@@ -5,3 +5,10 @@ c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_SAL\ob
 c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.dll
 c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.pdb
 C:\Users\CT 04\Documents\Visual Studio 2017\Projects\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.csprojResolveAssemblyReference.cache
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\bin\Debug\netstandard1.4\Lab002_M2_L2_SAL.deps.json
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\bin\Debug\netstandard1.4\Lab002_M2_L2_SAL.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\bin\Debug\netstandard1.4\Lab002_M2_L2_SAL.pdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.csprojResolveAssemblyReference.cache
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.AssemblyInfo.cs
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_SAL\obj\Debug\netstandard1.4\Lab002_M2_L2_SAL.pdb

@@ -7,3 +7,12 @@ c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_BLL\ob
 c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.AssemblyInfo.cs
 c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.dll
 c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.pdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\bin\Debug\netstandard1.4\Lab002_M2_L2_BLL.deps.json
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\bin\Debug\netstandard1.4\Lab002_M2_L2_BLL.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\bin\Debug\netstandard1.4\Lab002_M2_L2_BLL.pdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\bin\Debug\netstandard1.4\Lab002_M2_L2_DAL.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\bin\Debug\netstandard1.4\Lab002_M2_L2_DAL.pdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.csprojResolveAssemblyReference.cache
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.AssemblyInfo.cs
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto\Xamarin\Lab002_M2_L2_BLL\obj\Debug\netstandard1.4\Lab002_M2_L2_BLL.pdb

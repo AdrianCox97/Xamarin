@@ -3721,10 +3721,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CT 04\\Documents\\Visual Studio 2017\\Projects\\Xamarin\\Lab002_M2_L2_BLL\\Lab002_M2_L2_BLL.csproj",
+      "projectUniqueName": "C:\\Users\\CT 04\\Documents\\GitHub\\Xamarin\\Proyecto\\Xamarin\\Lab002_M2_L2_BLL\\Lab002_M2_L2_BLL.csproj",
       "projectName": "Lab002_M2_L2_BLL",
-      "projectPath": "C:\\Users\\CT 04\\Documents\\Visual Studio 2017\\Projects\\Xamarin\\Lab002_M2_L2_BLL\\Lab002_M2_L2_BLL.csproj",
-      "outputPath": "C:\\Users\\CT 04\\Documents\\Visual Studio 2017\\Projects\\Xamarin\\Lab002_M2_L2_BLL\\obj\\",
+      "projectPath": "C:\\Users\\CT 04\\Documents\\GitHub\\Xamarin\\Proyecto\\Xamarin\\Lab002_M2_L2_BLL\\Lab002_M2_L2_BLL.csproj",
+      "outputPath": "C:\\Users\\CT 04\\Documents\\GitHub\\Xamarin\\Proyecto\\Xamarin\\Lab002_M2_L2_BLL\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
@@ -3732,8 +3732,8 @@
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {
-            "C:\\Users\\CT 04\\Documents\\Visual Studio 2017\\Projects\\Xamarin\\Lab002_M2_L2_DAL\\Lab002_M2_L2_DAL.csproj": {
-              "projectPath": "C:\\Users\\CT 04\\Documents\\Visual Studio 2017\\Projects\\Xamarin\\Lab002_M2_L2_DAL\\Lab002_M2_L2_DAL.csproj"
+            "C:\\Users\\CT 04\\Documents\\GitHub\\Xamarin\\Proyecto\\Xamarin\\Lab002_M2_L2_DAL\\Lab002_M2_L2_DAL.csproj": {
+              "projectPath": "C:\\Users\\CT 04\\Documents\\GitHub\\Xamarin\\Proyecto\\Xamarin\\Lab002_M2_L2_DAL\\Lab002_M2_L2_DAL.csproj"
             }
           }
         }
