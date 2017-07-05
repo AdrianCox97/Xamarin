@@ -1,0 +1,7 @@
+c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\bin\Debug\netstandard1.4\Lab002_M2_L2_DAL.deps.json
+c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\bin\Debug\netstandard1.4\Lab002_M2_L2_DAL.dll
+c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\bin\Debug\netstandard1.4\Lab002_M2_L2_DAL.pdb
+c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\obj\Debug\netstandard1.4\Lab002_M2_L2_DAL.AssemblyInfo.cs
+c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\obj\Debug\netstandard1.4\Lab002_M2_L2_DAL.dll
+c:\users\ct 04\documents\visual studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\obj\Debug\netstandard1.4\Lab002_M2_L2_DAL.pdb
+C:\Users\CT 04\Documents\Visual Studio 2017\Projects\Xamarin\Lab002_M2_L2_DAL\obj\Debug\netstandard1.4\Lab002_M2_L2_DAL.csprojResolveAssemblyReference.cache
