@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="Lab003_M2_L3_UWPApp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lab003_M2_L3_UWPApp"
+    RequestedTheme="Light">
+
+</Application>
+

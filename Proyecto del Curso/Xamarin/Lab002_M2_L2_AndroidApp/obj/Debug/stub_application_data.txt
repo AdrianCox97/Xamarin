@@ -1,2 +1,0 @@
-android.app.Application
-Lab002_M2_L2_AndroidApp.Lab002_M2_L2_AndroidApp

@@ -57,5 +57,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab002_M2_L2_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab002_M2_L2_AndroidApp\obj\Debug\res\drawable\xamarinicon.ico
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab002_M2_L2_AndroidApp\obj\Debug\R.cs.flag
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab002_M2_L2_AndroidApp\obj\Debug\uploadflags.txt
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab002_M2_L2_AndroidApp\bin\Debug\Lab002_M2_L2_AndroidApp.dll.mdb
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab002_M2_L2_AndroidApp\obj\Debug\android\assets\Lab002_M2_L2_AndroidApp.dll.mdb
