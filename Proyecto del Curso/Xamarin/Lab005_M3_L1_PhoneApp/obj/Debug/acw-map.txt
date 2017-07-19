@@ -1,0 +1,4 @@
+Lab005_M3_L1_PhoneApp.MainActivity, Lab005_M3_L1_PhoneApp;md54f22e6e4bbe5c900d522555f6e3ff66f.MainActivity
+Lab005_M3_L1_PhoneApp.MainActivity, Lab005_M3_L1_PhoneApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54f22e6e4bbe5c900d522555f6e3ff66f.MainActivity
+Lab005_M3_L1_PhoneApp.MainActivity;md54f22e6e4bbe5c900d522555f6e3ff66f.MainActivity
+lab005_m3_l1_phoneapp.MainActivity;md54f22e6e4bbe5c900d522555f6e3ff66f.MainActivity
