@@ -16,5 +16,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab005_M3_L1_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab005_M3_L1_PhoneApp\obj\Debug\res\drawable-mdpi\icon.png
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab005_M3_L1_PhoneApp\obj\Debug\res\drawable-xhdpi\icon.png
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab005_M3_L1_PhoneApp\obj\Debug\res\drawable-xxhdpi\icon.png
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab005_M3_L1_PhoneApp\bin\Debug\Lab005_M3_L1_PhoneApp.dll.mdb
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab005_M3_L1_PhoneApp\obj\Debug\android\assets\Lab005_M3_L1_PhoneApp.dll.mdb

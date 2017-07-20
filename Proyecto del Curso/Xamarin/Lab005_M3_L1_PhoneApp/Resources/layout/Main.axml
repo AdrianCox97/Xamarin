@@ -24,4 +24,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/CallButton" />
+    <TextView
+        android:text="xD"
+        android:id="@+id/ValidacionLab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
 </LinearLayout>

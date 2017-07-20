@@ -23,3 +23,4 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_AndroidApp\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_AndroidApp\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_AndroidApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_AndroidApp\obj\Debug\Lab003_M2_L3_AndroidApp.csprojResolveAssemblyReference.cache

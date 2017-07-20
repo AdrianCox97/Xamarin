@@ -52,7 +52,7 @@ namespace Lab005_M3_L1_PhoneApp
 
                     //Intentar llamar al número telefónico
                     var CallDialog = new AlertDialog.Builder(this);
-
+                    
                     CallDialog.SetMessage($"Llamar al número { TranslatedNumber }?");
 
                     CallDialog.SetNeutralButton("Lamar", delegate
@@ -68,12 +68,12 @@ namespace Lab005_M3_L1_PhoneApp
                             StartActivity(CallIntent);
                         });
 
-                    CallDialog.SetPositiveButton("PB", delegate
-                        {
-                            Toast.MakeText(ApplicationContext,
-                                "PositiveButton",
-                                ToastLength.Long).Show();
-                        });
+                    //CallDialog.SetPositiveButton("PB", delegate
+                    //    {
+                    //        Toast.MakeText(ApplicationContext,
+                    //            "PositiveButton",
+                    //            ToastLength.Long).Show();
+                    //    });
 
                     CallDialog.SetNegativeButton("Cancelar", delegate 
                         {

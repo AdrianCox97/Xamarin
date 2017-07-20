@@ -1,2 +1,0 @@
-android.app.Application
-Lab005_M3_L1_PhoneApp.Lab005_M3_L1_PhoneApp
