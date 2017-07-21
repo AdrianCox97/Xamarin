@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>20/07/2017 05:40:14 p. m.</xs:documentation>
+    <xs:documentation>21/07/2017 05:24:17 p. m.</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -3605,8 +3605,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -3646,8 +3652,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -4253,8 +4265,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -4780,8 +4798,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -5857,8 +5881,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -6148,8 +6178,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -10849,8 +10885,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -10890,8 +10932,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -11458,8 +11506,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -11499,8 +11553,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -11540,8 +11600,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -16577,8 +16643,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -16716,10 +16788,18 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkBox1" />
+            <xs:enumeration value="@id/btnValidar" />
+            <xs:enumeration value="@id/btnValidarActividad" />
             <xs:enumeration value="@id/CallButton" />
+            <xs:enumeration value="@id/CallHistoryButton" />
             <xs:enumeration value="@id/PhoneNumberText" />
-            <xs:enumeration value="@id/textView1" />
+            <xs:enumeration value="@id/relativeLayout1" />
             <xs:enumeration value="@id/TranslateButton" />
+            <xs:enumeration value="@id/tvContrasenia" />
+            <xs:enumeration value="@id/tvCorreo" />
+            <xs:enumeration value="@id/tvValidando" />
+            <xs:enumeration value="@id/txtContrasenia" />
+            <xs:enumeration value="@id/txtCorreo" />
             <xs:enumeration value="@id/ValidacionLab" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
@@ -17047,8 +17127,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -18264,8 +18350,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -20723,8 +20815,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -20921,8 +21019,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -21176,8 +21280,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -21869,8 +21979,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -23771,8 +23887,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -25693,8 +25815,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -26674,8 +26802,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -30072,8 +30206,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -31336,8 +31476,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -32509,8 +32655,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -34165,8 +34317,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -34206,8 +34364,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -37304,8 +37468,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -37345,8 +37515,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -39476,8 +39652,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -39620,8 +39802,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />
@@ -40746,8 +40934,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />

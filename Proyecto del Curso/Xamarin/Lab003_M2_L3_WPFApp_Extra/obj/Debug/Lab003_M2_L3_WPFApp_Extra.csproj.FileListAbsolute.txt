@@ -10,4 +10,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_WPFApp_Extra\obj\Debug\Lab003_M2_L3_WPFApp_Extra.csproj.GenerateResource.Cache
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_WPFApp_Extra\obj\Debug\Lab003_M2_L3_WPFApp_Extra.exe
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_WPFApp_Extra\obj\Debug\Lab003_M2_L3_WPFApp_Extra.pdb
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab003_M2_L3_WPFApp_Extra\obj\Debug\Lab003_M2_L3_WPFApp_Extra.csprojResolveAssemblyReference.cache

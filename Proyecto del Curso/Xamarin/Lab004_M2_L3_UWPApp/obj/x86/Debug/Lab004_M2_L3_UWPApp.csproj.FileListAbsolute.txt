@@ -123,7 +123,13 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\System.Xml.XmlSerializer.dll
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Lab004_M2_L3_PCLProyect.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\SALLab04.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Lab004_M2_L3_PCLProyect.pdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Lab004_M2_L3_PCLProyect.dll.config
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Newtonsoft.Json.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\Lab004_M2_L3_UWPApp.csprojResolveAssemblyReference.cache
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\App.g.i.cs
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\App.g.cs
@@ -200,6 +206,8 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\Lab004_M2_L3_UWPApp.csproj.GenerateResource.Cache
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\priconfig.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\priconfig.xml.intermediate
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\layout.resfiles
@@ -212,13 +220,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\ProjectArchitectures.txt
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Microsoft.WindowsAzure.Mobile.dll
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\System.Net.Http.Extensions.dll
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\System.Net.Http.Primitives.dll
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Newtonsoft.Json.dll
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\SALLab04.dll
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\bin\x86\Debug\Lab004_M2_L3_PCLProyect.dll.config
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\Lab004_M2_L3_UWPApp.csproj.GenerateResource.Cache
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_UWPApp\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml

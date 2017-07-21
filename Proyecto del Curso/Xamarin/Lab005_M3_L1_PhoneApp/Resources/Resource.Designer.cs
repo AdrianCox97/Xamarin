@@ -63,17 +63,44 @@ namespace Lab005_M3_L1_PhoneApp
 			// aapt resource value: 0x7f050003
 			public const int CallButton = 2131034115;
 			
+			// aapt resource value: 0x7f050004
+			public const int CallHistoryButton = 2131034116;
+			
 			// aapt resource value: 0x7f050001
 			public const int PhoneNumberText = 2131034113;
 			
 			// aapt resource value: 0x7f050002
 			public const int TranslateButton = 2131034114;
 			
-			// aapt resource value: 0x7f050004
-			public const int ValidacionLab = 2131034116;
+			// aapt resource value: 0x7f050007
+			public const int ValidacionLab = 2131034119;
+			
+			// aapt resource value: 0x7f05000c
+			public const int btnValidar = 2131034124;
+			
+			// aapt resource value: 0x7f050005
+			public const int btnValidarActividad = 2131034117;
+			
+			// aapt resource value: 0x7f050006
+			public const int relativeLayout1 = 2131034118;
 			
 			// aapt resource value: 0x7f050000
 			public const int textView1 = 2131034112;
+			
+			// aapt resource value: 0x7f05000a
+			public const int tvContrasenia = 2131034122;
+			
+			// aapt resource value: 0x7f050008
+			public const int tvCorreo = 2131034120;
+			
+			// aapt resource value: 0x7f05000d
+			public const int tvValidando = 2131034125;
+			
+			// aapt resource value: 0x7f05000b
+			public const int txtContrasenia = 2131034123;
+			
+			// aapt resource value: 0x7f050009
+			public const int txtCorreo = 2131034121;
 			
 			static Id()
 			{
@@ -91,6 +118,9 @@ namespace Lab005_M3_L1_PhoneApp
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
 			
+			// aapt resource value: 0x7f030001
+			public const int ValidarActividad = 2130903041;
+			
 			static Layout()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -104,11 +134,29 @@ namespace Lab005_M3_L1_PhoneApp
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
-			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int MA_ApplicationName = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int MA_CallHistory = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int MA_Validando = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int MA_Validar = 2130968579;
+			
+			// aapt resource value: 0x7f040006
+			public const int VA_btnValidar = 2130968582;
+			
+			// aapt resource value: 0x7f040005
+			public const int VA_tvContraseña = 2130968581;
+			
+			// aapt resource value: 0x7f040004
+			public const int VA_tvCorreo = 2130968580;
+			
+			// aapt resource value: 0x7f040007
+			public const int VA_tvValidar = 2130968583;
 			
 			static String()
 			{

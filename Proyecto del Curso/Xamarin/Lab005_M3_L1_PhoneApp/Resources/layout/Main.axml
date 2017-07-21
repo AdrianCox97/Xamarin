@@ -24,10 +24,34 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/CallButton" />
-    <TextView
-        android:text="xD"
-        android:id="@+id/ValidacionLab"
+    <Button
+        android:text="@string/MA_CallHistory"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
+        android:id="@+id/CallHistoryButton"
+        android:enabled="false" />
+    <Button
+        android:text="@string/MA_Validar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnValidarActividad"
+        android:enabled="false" />
+    <RelativeLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayout1"
+        android:gravity="center">
+        <TextView
+            android:text="@string/MA_Validando"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ValidacionLab"
+            android:layout_marginLeft="75dp"
+            android:layout_marginRight="75dp"
+            android:layout_marginTop="75dp"
+            android:layout_marginBottom="75dp" />
+    </RelativeLayout>
 </LinearLayout>

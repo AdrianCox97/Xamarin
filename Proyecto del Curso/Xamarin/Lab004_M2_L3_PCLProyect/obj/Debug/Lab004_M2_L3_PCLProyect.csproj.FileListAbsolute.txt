@@ -13,4 +13,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_PCLProyect\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_PCLProyect\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_PCLProyect\obj\Debug\Lab004_M2_L3_PCLProyect.csproj.App.config
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab004_M2_L3_PCLProyect\obj\Debug\Lab004_M2_L3_PCLProyect.csprojResolveAssemblyReference.cache

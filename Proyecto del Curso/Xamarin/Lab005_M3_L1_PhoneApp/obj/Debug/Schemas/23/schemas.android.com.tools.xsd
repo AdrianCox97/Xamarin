@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>20/07/2017 05:40:14 p. m.</xs:documentation>
+    <xs:documentation>21/07/2017 05:24:17 p. m.</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -13,6 +13,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/validaractividad" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -61,6 +62,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/validaractividad" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -109,6 +111,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/validaractividad" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -157,6 +160,7 @@
         <xs:simpleType>
           <xs:restriction base="xs:string">
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/validaractividad" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -204,8 +208,14 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@string/ApplicationName" />
-            <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/MA_ApplicationName" />
+            <xs:enumeration value="@string/MA_CallHistory" />
+            <xs:enumeration value="@string/MA_Validando" />
+            <xs:enumeration value="@string/MA_Validar" />
+            <xs:enumeration value="@string/VA_btnValidar" />
+            <xs:enumeration value="@string/VA_tvContraseña" />
+            <xs:enumeration value="@string/VA_tvCorreo" />
+            <xs:enumeration value="@string/VA_tvValidar" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />

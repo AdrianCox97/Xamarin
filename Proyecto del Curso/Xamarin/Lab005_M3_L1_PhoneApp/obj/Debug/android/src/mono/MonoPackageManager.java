@@ -99,6 +99,13 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Lab005_M3_L1_PhoneApp.dll" comes first in this list. */
 		"Lab005_M3_L1_PhoneApp.dll",
+		"Microsoft.WindowsAzure.Mobile.dll",
+		"Microsoft.WindowsAzure.Mobile.Ext.dll",
+		"Newtonsoft.Json.dll",
+		"SALLab05.dll",
+		"SALLab06.dll",
+		"System.Net.Http.Extensions.dll",
+		"System.Net.Http.Primitives.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

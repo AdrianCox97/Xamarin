@@ -47,4 +47,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab001_M1_L1\
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab001_M1_L1\obj\Debug\res\drawable\xamarinicon.ico
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab001_M1_L1\obj\Debug\R.cs.flag
 C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab001_M1_L1\obj\Debug\uploadflags.txt
-C:\Users\CT 04\Documents\GitHub\Xamarin\Proyecto del Curso\Xamarin\Lab001_M1_L1\obj\Debug\Lab001_M1_L1.csprojResolveAssemblyReference.cache
