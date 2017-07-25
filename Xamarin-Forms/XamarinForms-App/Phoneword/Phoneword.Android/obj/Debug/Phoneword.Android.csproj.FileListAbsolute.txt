@@ -40,3 +40,11 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\bin\Debug\Phoneword.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\bin\Debug\Phoneword.Android.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\obj\Debug\android\assets\Phoneword.Android.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\obj\Debug\android\assets\Phoneword.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
