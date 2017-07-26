@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-26T18:40:12.639</Modified>
+      <Modified>2017-07-26T21:51:32.717</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\bin\x86\Debug\Phoneword.UWP.exe">
       <PackagePath>entrypoint\Phoneword.UWP.exe</PackagePath>
-      <Modified>2017-07-26T18:40:10.542</Modified>
+      <Modified>2017-07-26T21:51:29.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\CT 04\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,7 +513,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword\bin\Debug\Phoneword.dll">
       <PackagePath>Phoneword.dll</PackagePath>
-      <Modified>2017-07-26T18:40:05.207</Modified>
+      <Modified>2017-07-26T21:51:23.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -688,11 +688,11 @@
     <AppxPackagedFile Include="C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-26T18:40:12.192</Modified>
+      <Modified>2017-07-26T19:09:24.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\bin\x86\Debug\Core\Phoneword.UWP.exe">
       <PackagePath>Phoneword.UWP.exe</PackagePath>
-      <Modified>2017-07-26T18:40:12.629</Modified>
+      <Modified>2017-07-26T21:51:32.709</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

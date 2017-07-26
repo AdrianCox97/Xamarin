@@ -13,4 +13,3 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword\obj\Debug\Phoneword.dll
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword\obj\Debug\Phoneword.pdb
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword\obj\Debug\Phoneword.CallHistoryPage.xaml.g.cs
-C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword\obj\Debug\Phoneword.csprojResolveAssemblyReference.cache
