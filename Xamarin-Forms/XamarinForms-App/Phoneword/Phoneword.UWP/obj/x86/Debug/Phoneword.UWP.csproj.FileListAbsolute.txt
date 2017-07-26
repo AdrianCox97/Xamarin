@@ -217,3 +217,5 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\obj\x86\Debug\package.map.txt
+C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.UWP\obj\x86\Debug\_pkginfo.txt

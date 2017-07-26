@@ -1,16 +1,19 @@
 ﻿using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System.Collections.Generic;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Phoneword
 {
     public partial class App : Application
     {
+        public static IList<string> PhoneNumbers { get; set; }
+
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            PhoneNumbers = new List<string>();
+            MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart()

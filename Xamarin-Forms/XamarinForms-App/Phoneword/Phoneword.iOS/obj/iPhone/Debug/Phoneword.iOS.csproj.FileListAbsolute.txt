@@ -6,7 +6,6 @@ C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Phoneword.pdb
-C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Phoneword.dll.mdb
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
 C:\Users\CT 04\Documents\GitHub\Xamarin\Xamarin-Forms\XamarinForms-App\Phoneword\Phoneword.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll.mdb
