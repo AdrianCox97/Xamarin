@@ -1,2 +1,5 @@
 https://developer.xamarin.com/guides/xamarin-forms/getting-started/hello-xamarin-forms/
 https://codigofacilito.com/cursos/xamarin
+-----------
+Estilos
+https://letixmix.wordpress.com/2015/02/09/como-cambiar-de-color-de-la-action-bar-de-nuestra-app-android/
